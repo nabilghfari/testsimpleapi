@@ -17,6 +17,12 @@
       "rating": 8,
       "user_name": "Peter Parker",
       "text": "You are the spiderman of this world"
+    },
+    {
+      "id": 100,
+      "rating": 1,
+      "user_name": "test post",
+      "text": "lorem ipsum dolor sit amet"
     }
   ]
 }
