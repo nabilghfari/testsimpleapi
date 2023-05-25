@@ -26,8 +26,17 @@
     }
   ],
   "banner": [
-    "http://192.168.5.85/wp-content/uploads/2023/03/banner-01.png",
-    "http://192.168.5.85/wp-content/uploads/2023/03/banner-02.png",
-    "http://192.168.5.85/wp-content/uploads/2023/03/banner-03.png"
+    {
+      "id": 1,
+      "url": "http://192.168.5.85/wp-content/uploads/2023/03/banner-01.png"
+    },
+    {
+      "id": 2,
+      "url": "http://192.168.5.85/wp-content/uploads/2023/03/banner-02.png"
+    },
+    {
+      "id": 3,
+      "url": "http://192.168.5.85/wp-content/uploads/2023/03/banner-03.png"
+    }
   ]
 }
