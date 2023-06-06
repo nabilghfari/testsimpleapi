@@ -1,158 +1,455 @@
 {
   "catalogue": [
     {
-      "id": 1,
-      "category": "1",
-      "name": "Product 1",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_car.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 19000000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 1000000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 2000000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 3000000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Mini Slow Cooker",
+      "pic": "https://drive.google.com/file/d/1XyI_vD5AqVhPmU-NFNwpuQB19jhZWF8A/view?usp=drive_link",
+      "desc": "150 watt; Kapasitas 3.3 liter; Tampil mewah dengan perpaduan warna hitam; Bertekstur 3D dan sentuhan warna rosegold; Inner ceramic pot dapat dilepas dari body sehingga mudah dibersihkan; Dilengkapi knob manual dengan menu : low;high;keep warm; *)Harga Belum Termasuk Ongkir",
+      "price": "880000",
+      "x3": "312000",
+      "x6": "164000",
+      "x9": "115000",
+      "x12": "90000"
     },
     {
-      "id": 2,
-      "category": "2",
-      "name": "Product 2",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_bike.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 9000000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 1200000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 2050000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 3010000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Ice Cream Maker",
+      "pic": "https://drive.google.com/file/d/1E3eOL2M1NnsgRORowG35HMB1KD2adfpY/view?usp=drive_link",
+      "desc": "135 watt; Desain yang simple;elegan dan tampil cantik dengan perpaduan warna hitam dan rosegold; Com aluminium berkapasitas 1 liter; 2 types ice cream texture (hard&soft); Membuat ice cream;gelato;frozen yoghurt&sorbet; *)Harga Belum Termasuk Ongkir",
+      "price": "3580000",
+      "x3": "1268000",
+      "x6": "666000",
+      "x9": "465000",
+      "x12": "364000"
     },
     {
-      "id": 3,
-      "category": "3",
-      "name": "Product 3",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_car.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 29000000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 5000000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 2000000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 1000000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Coffee Maker",
+      "pic": "https://drive.google.com/file/d/1H9G2EqqTnNzjguYQ__TLB5owQX8P26Tu/view?usp=drive_link",
+      "desc": "600 watt (heater);90 watt (grinder); Kapasitas 0,6 liter; Dilengkapi elemen pemanas; Tempat penggiling terpisah dengan brewing; Filter dan grinder yang dapat dilepas dan dicuci; Melakukan 3 proses : menggiling biji kopi; brewing; dan keep warm; *)Harga Belum Termasuk Ongkir",
+      "price": "1680000",
+      "x3": "595000",
+      "x6": "313000",
+      "x9": "218000",
+      "x12": "171000"
     },
     {
-      "id": 4,
-      "category": "4",
-      "name": "Product 4",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_bike.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 900000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 100000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 800000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 1200000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Rice Cooker Low Carbo 2",
+      "pic": "https://drive.google.com/file/d/1FDYt1_nFwr9heyj5DY9BbbxVX2PbcGDn/view?usp=drive_link",
+      "desc": "500 watt; Kapasitas : 2 cup - low carbo; 4 cup - normal rice; Dilengkapi dengan fungsi RESERVE yang berguna sebagai delay cooking/timer; Menurunkan kadar gula kurang lebih hingga 50%; Touch screen panel; Com berbahan dasar stainless steel 304; Dilengkapi katup otomatis untuk pembuangan air tajin; Menu : rice;soup;steam wash;mixed rice;steam cook;keep warm; *)Harga Belum Termasuk Ongkir",
+      "price": "2980000",
+      "x3": "1056000",
+      "x6": "554000",
+      "x9": "387000",
+      "x12": "303000"
     },
     {
-      "id": 5,
-      "category": "1",
-      "name": "Product 5",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_car.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 99000000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 9000000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 2400000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 1000000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Rice Cooker Low Carbo 4",
+      "pic": "https://drive.google.com/file/d/1W58cyfGYEiJevNx71QsNopqTUMNR7EwV/view?usp=drive_link",
+      "desc": "750 watt; Kapasitas 1,5 liter; Menurunkan kadar gula kurang lebih hingga 50%; Touch screen panel; Com berbahan dasar stainless steel 304; Dilengkapi katup otomatis untuk pembuangan air tajin; Tekstur nasi yang pulen&lembut; Otomatis keep warm selama 2 jam Menu : steam-soup/porridge-rice-reheat; *)Harga Belum Termasuk Ongkir",
+      "price": "3980000",
+      "x3": "1410000",
+      "x6": "740000",
+      "x9": "517000",
+      "x12": "405000"
     },
     {
-      "id": 6,
-      "category": "2",
-      "name": "Product 6",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_bike.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 9500000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 1203000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 2050001
-        },
-        {
-          "tenor": 1,
-          "installment_price": 9010000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Hand Mixer Digital ",
+      "pic": "https://drive.google.com/file/d/1C2fNzXGr4E5PCwX8XIaX5i2Jh4uIyyMA/view?usp=drive_link",
+      "desc": "400 Watt ; 1-16 & pulse; Tampilan mewah dengan warna rose gold; whisk & hook berbahan stainless; Dilengkapi box penyimpanan kabel dan aksesoris ; Dilengkapi tombol turbo ; Memiliki fungsi timer (10 menit) ; Kapasitas Maksimum: Adonan roti dengan tepung 250gr; *)Harga Belum Termasuk Ongkir",
+      "price": "1180000",
+      "x3": "418000",
+      "x6": "220000",
+      "x9": "154000",
+      "x12": "120000"
     },
     {
-      "id": 7,
-      "category": "3",
-      "name": "Product 7",
-      "pic": "http://192.168.5.85/wp-content/uploads/2023/05/category_dummy_car.png",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor, eros eget gravida lobortis, dui elit facilisis eros, nec pharetra leo enim porta magna. Vivamus eleifend ornare orci, sit amet commodo nisl convallis ac. Suspendisse sapien felis, vehicula a diam non, varius tempus velit. Vivamus odio augue, pellentesque a neque eu, vehicula pharetra nunc. Aenean non turpis quam. Donec id neque non nibh tempus mollis. Suspendisse non nisi non lacus tempor maximus interdum nec nulla. Nulla eu erat eu ante vehicula bibendum non non tellus. Aliquam tortor purus, bibendum sit amet consequat eget, semper nec metus. Fusce non neque ipsum. Etiam sagittis in urna at rutrum. Aliquam erat volutpat. Praesent tellus diam, facilisis in eros quis, lobortis consectetur felis. Phasellus eget maximus ex. Aliquam volutpat pretium felis nec vestibulum. Morbi eleifend nulla sapien, vitae posuere sem fringilla a.\n\nUt et odio et dui sodales venenatis. Nam ligula magna, convallis a nisl vel, posuere condimentum purus. Nullam id ornare ipsum. Curabitur viverra nibh in dolor cursus, eget consequat risus convallis. Pellentesque sed sem ac nibh tempor faucibus. Sed sit amet mi risus. Phasellus pulvinar gravida tristique.\n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in elit dui. Etiam tincidunt velit justo, sed dignissim ipsum posuere at. Fusce lectus diam, efficitur vitae sem ac, suscipit blandit turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros quis neque bibendum finibus. Morbi faucibus faucibus placerat. Phasellus eget enim et nulla tincidunt feugiat. Aenean egestas ipsum dictum, blandit mi sit amet, imperdiet mauris.\n\nEtiam pretium eget turpis vel elementum. Suspendisse tincidunt dolor risus, pharetra iaculis sem euismod in. Sed dignissim ante et tellus auctor vulputate. Nullam gravida, enim vitae tincidunt feugiat, sapien diam tristique eros, eget bibendum orci lorem semper nulla. Donec eros sem, venenatis ac condimentum nec, elementum quis tortor. In luctus, nunc euismod malesuada molestie, ipsum odio viverra mauris, in placerat lacus diam elementum purus. Mauris dictum dolor ut purus congue venenatis. In eget bibendum mauris, eget tristique augue. Aenean imperdiet a dolor et scelerisque.\n\nVestibulum feugiat urna vel tincidunt sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis blandit sapien. Duis convallis risus nec porta sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum mauris ex, maximus vel pharetra quis, commodo suscipit est. Quisque feugiat lacinia vestibulum.",
-      "price": 49000000,
-      "installment": [
-        {
-          "tenor": 3,
-          "installment_price": 7000000
-        },
-        {
-          "tenor": 2,
-          "installment_price": 4600000
-        },
-        {
-          "tenor": 1,
-          "installment_price": 2000000
-        }
-      ]
+      "category": "Home Appliance",
+      "name": "Hand Mixer ",
+      "pic": "https://drive.google.com/file/d/1Ky_VjRwPktMw4UfyH-kNqRzIW5vbQval/view?usp=drive_link",
+      "desc": "300 Watt ; 1-5; pulse & Turbo; Tampil cantik dengan body silver yang kokoh whisk & hook berbahan stailess; Kecepatan lebih cepat dari hand mixer lainnya; dilengkapi dengan tombol turbo; Disempurnakan dengan mesin motor yang kuat; Kapasitas Maksimum: Adonan roti dengan tepung 250gr; *)Harga Belum Termasuk Ongkir",
+      "price": "880000",
+      "x3": "312000",
+      "x6": "164000",
+      "x9": "115000",
+      "x12": "90000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "La Jore Mixer ",
+      "pic": "https://drive.google.com/file/d/1LT3pmPvxUz7Qxo8EN4RfIMNOJau6obbh/view?usp=drive_link",
+      "desc": "400 Watt ; 1-5 & Pulse; Tampil elegan dengan warna rose gold whisk & hook berbahan chrome ; Kapasitas Maksimum: Adonan roti dengan tepung 250gr; *)Harga Belum Termasuk Ongkir",
+      "price": "658000",
+      "x3": "234000",
+      "x6": "123000",
+      "x9": "86000",
+      "x12": "67000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Mixer with Bowl ",
+      "pic": "https://drive.google.com/file/d/1GZ75ikHLes3wswx0gi9NcZ39vojtrBva/view?usp=drive_link",
+      "desc": "300 Watt ; 1-5; Pulse & Turbo; Gabungan antara hand mixer dengan stand dimana hand mixer dapat digunakan terpisah; Kecepatan lebih cepat dari hand mixer lainnya ; Dilengkapi tombol turbo ; Disempurnakan dengan mesin motor yang kuat ; Whisk & Spiral berbahan stainless stell ; Kapasitas Maksimum: Adonan roti dengan tepung 250gr; 15 kuning telur & kapasitas bowl 2;5 L berputar secara otomatis; *)Harga Belum Termasuk Ongkir",
+      "price": "1580000",
+      "x3": "560000",
+      "x6": "294000",
+      "x9": "205000",
+      "x12": "161000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Daily Choper ",
+      "pic": "https://drive.google.com/file/d/1_bgWH0SkWAH-gTkesLHkZ2rrDJEuVAil/view?usp=drive_link",
+      "desc": "300 watt; Penampilan elegan dengan warna rosegold; Dilengkapi dengan: gelas besar 2 liter dengan pisau stainless 3 susun;gelas kecil 1 liter dengan pisau stainless 2 susun; Pengaduk mayonaise; Super cepat dalam mengolah bumbu kasar;aneka daging;es batu;dan adonan ringan lainnya; Dapat mencincang daging 500 gr dan membuat bakso dengan kapasitas 250 gr daging; *)Harga Belum Termasuk Ongkir",
+      "price": "838000",
+      "x3": "297000",
+      "x6": "156000",
+      "x9": "109000",
+      "x12": "86000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Hand Blender",
+      "pic": "https://drive.google.com/file/d/16NNwmu4sB7dD_ZL3KDZurQttZUjHt516/view?usp=drive_link",
+      "desc": "800 watt; Gelas tinggi 800 ml; Gelas chopper 500 ml cocok untuk menggiling daging;membuat bakso;dan makanan bayi; Whisk : untuk mengocok putih telur&whip cream; Tangkai blending cocok untuk menghaluskan makanan;membuat milk shake;mayones;puree;sorbet;dan aneka jus buah; *)Harga Belum Termasuk Ongkir",
+      "price": "1280000",
+      "x3": "454000",
+      "x6": "238000",
+      "x9": "167000",
+      "x12": "131000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Grand Blender",
+      "pic": "https://drive.google.com/file/d/126uYh1-1S-fsiINKnK5GdxE9gLWtFHTS/view?usp=drive_link",
+      "desc": "450 watt; 1 gelas kapasitas 800 ml; 1 gelas stainless steel untuk bumbu 120 ml; Penampilan elegan dengan stqainless steel berwarna rose gold; Super cepat dalam memproses bumbu basah(biji cabe halus sempurna);bumbu kering;dan jus buah dengan hasil yang memuaskan; *)Harga Belum Termasuk Ongkir",
+      "price": "1280000",
+      "x3": "454000",
+      "x6": "238000",
+      "x9": "167000",
+      "x12": "131000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Nutri Blender",
+      "pic": "https://drive.google.com/file/d/154F-zWpMuib8lPkYYbWyGCtSzPdyhqRW/view?usp=drive_link",
+      "desc": "700 watt; Dilengkapi 3 gelas:2 gelas uk 550 ml;1 gelas uk 900 ml; Tampil lebih simple dengan body stainless steel; Super cepat dalam memproses bumbu basah;gula halus;jus buah;sari pandan; *)Harga Belum Termasuk Ongkir",
+      "price": "1280000",
+      "x3": "454000",
+      "x6": "238000",
+      "x9": "167000",
+      "x12": "131000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "New Mini Slow Juicer",
+      "pic": "https://drive.google.com/file/d/1haz17OScpG1B5YIYBEc-KG-ksdWHNQfJ/view?usp=drive_link",
+      "desc": "200 watt; Kecepatan 32 rpm; Slow juicer ini memiliki model yang compact dan komponen yang simple sehingga lebih mudah digunakan; Hasil juice 100% lebih murni dengan hasil ampas lebih kering dan nutrisi dari sari buah atau sayur tetap terjaga; *)Harga Belum Termasuk Ongkir",
+      "price": "2180000",
+      "x3": "773000",
+      "x6": "406000",
+      "x9": "283000",
+      "x12": "222000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Food Processor Pro",
+      "pic": "https://drive.google.com/file/d/17WCIzzX5TBek4K1cd244ADM2gw830G5h/view?usp=drive_link",
+      "desc": "800 watt; Kapasitas gelas 3,5 liter; Tombol on/off&pulse; Dilengkapi aksesoris:cubic cutter/alat pemotong dadu; Cocok untuk membuat bakso 500 gr daging; *)Harga Belum Termasuk Ongkir",
+      "price": "1880000",
+      "x3": "666000",
+      "x6": "350000",
+      "x9": "244000",
+      "x12": "192000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Food Processor",
+      "pic": "https://drive.google.com/file/d/1fqUXaGhQlsNCTcFjuVyjZo7vxizOQyPG/view?usp=drive_link",
+      "desc": "500-900 watt; Kapasitas gelas 2,8 liter; Tombol on/off&pulse; Kekurangan motor yang powerful dengan induksi motor memiliki laci penyimpanan pisau&mangkuk kecil; Dilengkapi 6 pisau aksesoris:2 parutan;1 irisan;1 pisau besar;1pisau kecil;1 whip disc; Cocok untuk membuat bakso 500 gr daging; *)Harga Belum Termasuk Ongkir",
+      "price": "4980000",
+      "x3": "1764000",
+      "x6": "926000",
+      "x9": "647000",
+      "x12": "507000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Ivory Casserole",
+      "pic": "https://drive.google.com/file/d/1bWaZZlFaR-g1yPTI3TzQnMoroOvzJkTj/view?usp=drive_link",
+      "desc": "Terdiri dari 3 pot casserole set; Free skillet 24 cm; Desain cantik dengan body bertekstur 3D membentuk pattern geometris menambah kesan mewah dan disempurnakan dengan warna ivory yang cantik; Material terbuat dari die cast aluminium tebal dengan granit coating yang kuat dan tahan lama; Dapat digunakan pada kompor induksi; *)Harga Belum Termasuk Ongkir",
+      "price": "2180000",
+      "x3": "773000",
+      "x6": "406000",
+      "x9": "283000",
+      "x12": "222000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Jumbo Ivory Casserole",
+      "pic": "https://drive.google.com/file/d/1o1G0dJENdfL_DbwwjLLmwzoXxGKxcscS/view?usp=drive_link",
+      "desc": "Terdiri dari 2 pot casserole set; Free skillet 30 cm; Desain cantik dengan body bertekstur 3D membentuk pattern geometris menambah kesan mewah dan disempurnakan dengan warna ivory yang cantik; Material terbuat dari die cast aluminium tebal dengan granit coating yang kuat dan tahan lama; Dapat digunakan pada kompor induksi; *)Harga Belum Termasuk Ongkir",
+      "price": "1980000",
+      "x3": "702000",
+      "x6": "368000",
+      "x9": "257000",
+      "x12": "202000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Nude Series Cookware",
+      "pic": "https://drive.google.com/file/d/10QIMu4YaG5r7DeEXJni1se-MUtl2kNvx/view?usp=drive_link",
+      "desc": "Free skillet 24 cm; Terdiri dari 8 pcs cookware berbahan aluminium; Warna nude yang super elegant; Memiliki body tebal yang dilapisi oleh coating nude spray di bagian luar dan greblon c3 premium coating non PFOA dibagian dalam; Tampak cantik dengan kombinasi wood soft touch di bagian knob dan handle nya; Dapat digunakan di kompor induksi; *)Harga Belum Termasuk Ongkir",
+      "price": "1980000",
+      "x3": "702000",
+      "x6": "368000",
+      "x9": "257000",
+      "x12": "202000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Golden Square Pan",
+      "pic": "https://drive.google.com/file/d/1na_yy9d8TrQBxSUrj73Zdn8SZlZetdhs/view?usp=drive_link",
+      "desc": "Free golden FPan 20; Ukuran 28x28x10,5 cm; Golden outer coating; Beige inner coating; Ceramic non stick technology; 5 layers material; Cocok untuk semua jenis kompor dan oven; Bisa untuk mengukus;merebus;dan menggoreng; *)Harga Belum Termasuk Ongkir",
+      "price": "638000",
+      "x3": "226000",
+      "x6": "119000",
+      "x9": "83000",
+      "x12": "65000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Golden Set Series",
+      "pic": "https://drive.google.com/file/d/1Vd4YH9JTG3BY1sV1JJo84-Ld1lYWDDpQ/view?usp=drive_link",
+      "desc": "Free golden FPan 20; Pembelian golden series dan golden square pan free golden wok; Perpaduan warna rose gold dan cream; meningkatkan estetika dapur; Terbuat dari bahan aluminium tebal dengan ceramic coating yang tahan lama dan bebas dari PFOA; Tahan gores dan tidak mudah terkelupas; Dapat digunakan di kompor induksi; *)Harga Belum Termasuk Ongkir",
+      "price": "1380000",
+      "x3": "489000",
+      "x6": "257000",
+      "x9": "180000",
+      "x12": "141000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Oven De Amore",
+      "pic": "https://drive.google.com/file/d/1nzBMOpBVGEEJ5jRQkhuaiQo8IkURmtXK/view?usp=drive_link",
+      "desc": "Ukuran oven : 53,5x36,8x33,5 cm; Ukuran rak jari : 38,5x29;5 cm; 600 watt elemen atas dan bawah; Kapasitas 38 liter; 120 menit; 0-250 celcius; Tampil eksklusif dengan frame stainless; Disertai dengan 2 lapisan kaca yang berfungsi untuk mempertahankan kestabilan suhu didalam oven; *)Harga Belum Termasuk Ongkir",
+      "price": "1780000",
+      "x3": "631000",
+      "x6": "331000",
+      "x9": "231000",
+      "x12": "181000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Oven De Vinci",
+      "pic": "https://drive.google.com/file/d/10h7EnE_fKuv18QzabD6MfFTv-GtauqCZ/view?usp=drive_link",
+      "desc": "Ukuran oven : 57,5x42,5x41,5 cm; Ukuran rak jari : 42,5x30,5 cm; Ukuran dalam oven : 43,3x31,8x34,8 cm; 800 watt elemen atas dan bawah; Kapasitas 50 liter; 120 menit; 0-250 celcius; Disertai dengan 2 lapisan kaca; Dilengkapi dengan fungsi : proofing;convection;dan rottiserie; *)Harga Belum Termasuk Ongkir",
+      "price": "2780000",
+      "x3": "985000",
+      "x6": "517000",
+      "x9": "361000",
+      "x12": "283000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Oven Galaxy Pro",
+      "pic": "https://drive.google.com/file/d/1Gjh3EcIn5nrnA89DXFMqWIJ8Dn_Da2Lz/view?usp=drive_link",
+      "desc": "Ukuran oven : 77x47x36 cm; Ukuran rak jari : 61x40 cm; Ukuran dalam oven : 43;3x31;8x34;8 cm; 900 watt elemen atas dan bawah; Kapasitas 75 liter; 120 menit; 0-250 celcius; Disertai dengan pintu kaca transparan dan lampu didalam oven; Body oven lebar;kokoh;dan elegan; Dilengkapi dengan fungsi : proofing;convection;dan rottiserie; *)Harga Belum Termasuk Ongkir",
+      "price": "4180000",
+      "x3": "1481000",
+      "x6": "777000",
+      "x9": "543000",
+      "x12": "425000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Oven De Braun",
+      "pic": "https://drive.google.com/file/d/1UXTNwT0h3KVyoV3I8edWfftXPvqTH86s/view?usp=drive_link",
+      "desc": "Ukuran oven : 85;4x59;5x46;4 cm; Ukuran rak jari : 67x50 cm; 1200 watt elemen atas;1100 watt elemen bawah; Kapasitas 150 liter; 120 menit; 0-250 celcius; Body oven kokoh;dan elegan dengan panel stainless steel dan kombinasi tombol warna black dan gold; Kapasitas oven yang besar memungkinkan untuk memanggang beberapa loyang sekaligus; Dilengkapi dengan fungsi : proofing;convection;dan rottiserie; *)Harga Belum Termasuk Ongkir",
+      "price": "4980000",
+      "x3": "1764000",
+      "x6": "926000",
+      "x9": "647000",
+      "x12": "507000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Oven De Noir",
+      "pic": "https://drive.google.com/file/d/1l_q4F9w9LeI1BY4cOqTOMrYryIoTyc1E/view?usp=drive_link",
+      "desc": "Ukuran oven : 82,9x59x49,6 cm; Ukuran rak jari : 64,2x48,5 cm; 1400 watt elemen atas dan bawah; Kapasitas 150 liter; 120 menit; 0-250 celcius; Body oven kokoh;dan elegan dengan panel stainless steel dan kombinasi tombol warna gold; Kapasitas oven yang besar memungkinkan untuk memanggang beberapa loyang sekaligus; Dilengkapi dengan fungsi : proofing;convection;dan rottiserie; *)Harga Belum Termasuk Ongkir",
+      "price": "5980000",
+      "x3": "2118000",
+      "x6": "1112000",
+      "x9": "776000",
+      "x12": "608000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "La Coste Standmixer ",
+      "pic": "https://drive.google.com/file/d/1nAzh5cKP7201FHs_MddzRy2iMc0aZfTT/view?usp=drive_link",
+      "desc": "800 watt; Warna rosegold and grey; Whisk berbahan stainless steel; Beater dan hook berbahan aluminium; Kapasitas maksimum: Adonan roti dengan tepung 300-350 gr & 25 kuning telur; Kapasitas bowl 4L; *)Harga Belum Termasuk Ongkir",
+      "price": "1980000",
+      "x3": "702000",
+      "x6": "368000",
+      "x9": "257000",
+      "x12": "202000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "La Rose Standmixer",
+      "pic": "https://drive.google.com/file/d/1n_F0SXv1KQquy02HxpVC7D9WbGk2lwSn/view?usp=drive_link",
+      "desc": "800-1000 watt; Warna rosegold; Whisk berbahan stainless steel; Beater dan hook berbahan aluminium; Kapasitas maksimum: Adonan roti dengan tepung 600-750 gr & 35 kuning telur; Kapasitas bowl 5;5L; *)Harga Belum Termasuk Ongkir",
+      "price": "3980000",
+      "x3": "1410000",
+      "x6": "740000",
+      "x9": "517000",
+      "x12": "405000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "De Royal Standmixer",
+      "pic": "https://drive.google.com/file/d/1qSz77C1SRBYlgJ2Q6Bus5-b6W8b6nxDU/view?usp=drive_link",
+      "desc": "800 watt; Warna rosegold; Free standing mixer; Whisk berbahan stainless steel; Beater dan hook berbahan aluminium; Dilengkapi dengan beater dan scraper; Kapasitas maksimum: Adonan roti dengan tepung 500 gr & 30 kuning telur ;Kapasitas bowl 5L; *)Harga Belum Termasuk Ongkir",
+      "price": "3080000",
+      "x3": "1091000",
+      "x6": "573000",
+      "x9": "400000",
+      "x12": "314000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "De Rosa Standmixer",
+      "pic": "https://drive.google.com/file/d/1n_F0SXv1KQquy02HxpVC7D9WbGk2lwSn/view?usp=drive_linkk",
+      "desc": "1200-1500 watt; Warna grey; Mesin yang kuat untuk mengadon 1kg tepung kering; Free standing mixer; Whisk berbahan stainless steel; Beater dan hook berbahan aluminium; Kapasitas maksimum: Adonan roti dengan tepung 1kg & 40 kuning telur; Kapasitas bowl 6;5L; *)Harga Belum Termasuk Ongkir",
+      "price": "5780000",
+      "x3": "2048000",
+      "x6": "1075000",
+      "x9": "750000",
+      "x12": "588000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "La Forte Standmixer ",
+      "pic": "https://drive.google.com/file/d/1Ynk-VR5moJiw9EGvEIVa1ydYIZaEo6bc/view?usp=drive_link",
+      "desc": "800-1500 watt; Low temperature; Full stainless steel accessories; Beater;hook;whisk; Dilengkapi dengan menu pause/resume; Timer up to 60 minutes; Kapasitas 7L; Kapasitas maksimum : bahan kering 1,5 kg; *)Harga Belum Termasuk Ongkir",
+      "price": "9380000",
+      "x3": "3323000",
+      "x6": "1744000",
+      "x9": "1217000",
+      "x12": "954000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Triply Wok",
+      "pic": "https://drive.google.com/file/d/1veciCaEV031JsfAdmkX_lfi7g6hcW-Xx/view?usp=drive_link",
+      "desc": "Diameter 30 cm dengan ketebalan 2;5 mm; Dilapisi 3 lapisan superior; Stainless steel 18/10; Tampak luxury dengan tutup dan handle stainless steel; *)Harga Belum Termasuk Ongkir",
+      "price": "1180000",
+      "x3": "418000",
+      "x6": "220000",
+      "x9": "154000",
+      "x12": "120000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "New Steam Wok",
+      "pic": "https://drive.google.com/file/d/1jXpm1_jCQgxjg5-uGYvAbWAN5VUaRIBE/view?usp=drive_link",
+      "desc": "Diameter 32 cm ;Berbahan aluminium dengan marble coating;Tutup konmbinasi stainless&kaca; Dilengkapi steamer dengan ketinggian 9,5 cm berbahan stainless; *)Harga Belum Termasuk Ongkir",
+      "price": "1118000",
+      "x3": "396000",
+      "x6": "208000",
+      "x9": "146000",
+      "x12": "114000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Nano Wok",
+      "pic": "https://drive.google.com/file/d/1ZjHs-PpJ845cBhAp6HIauKmuJBhn7v6L/view?usp=drive_link",
+      "desc": "Diameter 32 cm; Berbahan dasar iron yang dilapisi karbon enamel membuat masakan lebih harum; Dapat menggunakan sutil metal; Handle panjang yang dapat dilepas; *)Harga Belum Termasuk Ongkir",
+      "price": "788000",
+      "x3": "280000",
+      "x6": "147000",
+      "x9": "103000",
+      "x12": "81000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "New Chef Wok",
+      "pic": "https://drive.google.com/file/d/1Sok003gbYFuJXBOQBKvlw_lIHWAHa_DA/view?usp=drive_link",
+      "desc": "Diameter 32 cm; Berbahan aluminium dengan marble coating; Tutup konmbinasi stainless&kaca; Dilengkapi steamer dengan ketinggian 9;5 cm berbahan stainless; *)Harga Belum Termasuk Ongkir",
+      "price": "788000",
+      "x3": "280000",
+      "x6": "147000",
+      "x9": "103000",
+      "x12": "81000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Black Wok",
+      "pic": "https://drive.google.com/file/d/1cIrtK_8PeCZIaFXICAtpNOb6kBcpyyze/view?usp=drive_link",
+      "desc": "Diameter 30 cm; Soft touch handle model kayu; Dapat digunakan di kompor induksi; Tutup dan body berbahan dasar die cast aluminium dilapisi anti lengket 3 layer; *)Harga Belum Termasuk Ongkir",
+      "price": "758000",
+      "x3": "269000",
+      "x6": "141000",
+      "x9": "99000",
+      "x12": "78000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Golden Wok",
+      "pic": "https://drive.google.com/file/d/16vdPBnhSDz52_JVS1wbzxBV7qjfVLV63/view?usp=drive_link",
+      "desc": "Diameter 30 cm ; Ceramic coating; Dilengkapi tutup kaca; Handle tidak panas saat digunakan; Dapat digunakan di kompor induksi; *)Harga Belum Termasuk Ongkir",
+      "price": "498000",
+      "x3": "177000",
+      "x6": "93000",
+      "x9": "65000",
+      "x12": "51000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Nude Wok",
+      "pic": "https://drive.google.com/file/d/1jXZPL6fdQiln1ognf8-k0lpqkM3qan9G/view?usp=drive_link",
+      "desc": "Diameter 30 cm ; Ceramic coating; Dilengkapi tutup kaca; Handle tidak panas saat digunakan; Dapat digunakan di kompor induksi; Dilengkapi steamer dengan ketinggian 10 cm; *)Harga Belum Termasuk Ongkir",
+      "price": "1380000",
+      "x3": "489000",
+      "x6": "257000",
+      "x9": "180000",
+      "x12": "141000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Vanilla Pressure Cooker",
+      "pic": "https://drive.google.com/file/d/14gqV2XrS76KwFF-7U-5G5oI7s9_tHkLw/view?usp=drive_link",
+      "desc": "Diameter 28 cm ;Premium ceramic coating; Kapasitas 11 liter; 2 handle bake lite; Combination cooper&vanilla color; Aksesoris 1 glass lid&1steam rack; Induction base pot; *)Harga Belum Termasuk Ongkir",
+      "price": "1380000",
+      "x3": "489000",
+      "x6": "257000",
+      "x9": "180000",
+      "x12": "141000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Grey Stone Cookware ",
+      "pic": "https://drive.google.com/file/d/111OLBEbgRHnqtzQqXfs-OjooH5lrDG1F/view?usp=drive_link\\",
+      "desc": "Terdiri dari:;18 cm Sauce Pan;24 cm Sauce Pot;28 cm Deep Frypan; *)Harga Belum Termasuk Ongkir",
+      "price": "1380000",
+      "x3": "489000",
+      "x6": "257000",
+      "x9": "180000",
+      "x12": "141000"
+    },
+    {
+      "category": "Home Appliance",
+      "name": "Dusty Pink Cookware ",
+      "pic": "https://drive.google.com/file/d/1oPMhcfwptpt3ygWyWqiFywzjsF6_fKNt/view?usp=drive_link",
+      "desc": "Terdiri dari:;18 cm Sauce Pan;20 cm Sauce Pot;24 cm Deep Frypan; *)Harga Belum Termasuk Ongkir",
+      "price": "1180000",
+      "x3": "418000",
+      "x6": "220000",
+      "x9": "154000",
+      "x12": "120000"
     }
   ],
   "banner": [
