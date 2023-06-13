@@ -6860,7 +6860,7 @@
     {
       "category": "Tablet",
       "name": "Huawei AGS2-W09 MediaPad T5 10 3GB+32GB Champagne Gold",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/list-image/tablets/mediapad-t5/mediapad-t5-listimg-black.png",
       "price": "2470000",
       "x6": "460000",
       "x9": "321000",
@@ -6870,7 +6870,7 @@
     {
       "category": "Tablet",
       "name": "Huawei AGS3-W09C MatePad T10S 10.1 inch 3GB RAM 64GB ROM Deepsea Blue",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/south-pacific/id/mkt/pdp/tablets/matepad-t-10s/matepad-t-10s.jpg",
       "price": "2470000",
       "x6": "460000",
       "x9": "321000",
@@ -6880,7 +6880,7 @@
     {
       "category": "Tablet",
       "name": "Huawei KOB2-W09 MatePad T 8.0 2GB RAM 32GB ROM Deepsea Blue",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-8/list-image.png",
       "price": "1575000",
       "x6": "293000",
       "x9": "205000",
@@ -6890,7 +6890,7 @@
     {
       "category": "Tablet",
       "name": "Huawei AGR-W09 MatePad T 9.7inch Kids Edition 2GB RAM 32GB ROM Deepsea Blue",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/tablets/matepad-se-kids-edition/specs/specs.png",
       "price": "2755000",
       "x6": "512000",
       "x9": "358000",
@@ -6900,7 +6900,7 @@
     {
       "category": "Tablet",
       "name": "Huawei AGR-W09 MatePad T10 9.7inch 2GB RAM 32GB ROM Deepsea Blue",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-8/list-image.png",
       "price": "2196000",
       "x6": "409000",
       "x9": "285000",
@@ -6910,7 +6910,7 @@
     {
       "category": "Tablet",
       "name": "Huawei BAH3-W09 MatePad 10.4 inch 4GB RAM 64 GB ROM Midnight Grey",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-2022/specs/spec.png",
       "price": "4085000",
       "x6": "760000",
       "x9": "530000",
@@ -6920,7 +6920,7 @@
     {
       "category": "Tablet",
       "name": "Huawei DBY-W09 MatePad 11 10.95inch 6GB RAM 128GB ROM Matte Grey",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/tablets/matepad-11-2023/specs/specs.png",
       "price": "6935000",
       "x6": "1289000",
       "x9": "900000",
@@ -6930,7 +6930,7 @@
     {
       "category": "Tablet",
       "name": "Huawei MRX-AL09 Mate Pad Pro 6GB RAM 128GB ROM Gray",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/south-pacific/id/mkt/pdp/tablets/matepad-pro/matepad-pro.jpg",
       "price": "10450000",
       "x6": "1942000",
       "x9": "1356000",
@@ -6940,7 +6940,7 @@
     {
       "category": "Laptop",
       "name": "Redmibook 8+256GB",
-      "pic": "",
+      "pic": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmibook-15/overview08-img.png",
       "price": "6499000",
       "x6": "1208000",
       "x9": "844000",
@@ -6950,7 +6950,7 @@
     {
       "category": "Laptop",
       "name": "Redmibook 8+512GB",
-      "pic": "",
+      "pic": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmibook-15/overview08-img.png",
       "price": "7215000",
       "x6": "1341000",
       "x9": "936000",
@@ -6960,7 +6960,7 @@
     {
       "category": "Laptop",
       "name": "Matebook D14",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-14-2021/img/pc/huawei-matebook-d-14-2021-kv.png",
       "price": "10900000",
       "x6": "2026000",
       "x9": "1414000",
@@ -6970,7 +6970,7 @@
     {
       "category": "Laptop",
       "name": "LHW-53010XLB-SPG Huawei Matebook D14 Space Gray - Rayzen",
-      "pic": "",
+      "pic": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-14-2021/img/pc/huawei-matebook-d-14-2021-kv.png",
       "price": "9975000",
       "x6": "1854000",
       "x9": "1294000",
@@ -6980,7 +6980,7 @@
     {
       "category": "Smart Watch",
       "name": "Samsung Galaxy Fit",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id-galaxy-fit-r370-sm-r370nzkaxse-frontblack-thumb-169242037?$152_152_PNG$",
       "price": "1728000",
       "x6": "322000",
       "x9": "225000",
@@ -6990,7 +6990,7 @@
     {
       "category": "Smart Watch",
       "name": "Samsung Galaxy Fit 2",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id-galaxy-fit2-r220-sm-r220nzkaxse-frontblack-thumb-305722522?$152_152_PNG$",
       "price": "672000",
       "x6": "125000",
       "x9": "88000",
@@ -7000,7 +7000,7 @@
     {
       "category": "Smart Watch",
       "name": "Samsung Galaxy Watch Active R500N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id-galaxy-watch-active-r500-sm-r500nzdaxse-frontgold-thumb-153226206?$152_152_PNG$",
       "price": "3325000",
       "x6": "618000",
       "x9": "432000",
@@ -7010,7 +7010,7 @@
     {
       "category": "Smart Watch",
       "name": "Galaxy Watch 4 40mm (Bluetooth)",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/2108/gallery/id-galaxy-watch4-sm-r860nzdaxse-thumb-481093234?$152_152_PNG$",
       "price": "2400000",
       "x6": "446000",
       "x9": "312000",
@@ -7020,7 +7020,7 @@
     {
       "category": "Smart Watch",
       "name": "Galaxy Watch 5 40mm (Bluetooth)",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/2208/gallery/id-galaxy-watch5-40mm-sm-r900nzsaxse-thumb-533188184?$152_152_PNG$",
       "price": "3325000",
       "x6": "618000",
       "x9": "432000",
@@ -7030,7 +7030,7 @@
     {
       "category": "Smart Watch",
       "name": "Galaxy Watch 5 44mm (Bluetooth)",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/2208/gallery/id-galaxy-watch5-44mm-sm-r910nzaaxse-thumb-533188979?$152_152_PNG$",
       "price": "3800000",
       "x6": "707000",
       "x9": "493000",
@@ -7040,7 +7040,7 @@
     {
       "category": "Smart Watch",
       "name": "Galaxy Watch 5 Pro 45mm (Bluetooth)",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/2208/gallery/id-galaxy-watch5-pro-sm-r920nzkaxse-thumb-533189694?$152_152_PNG$",
       "price": "6175000",
       "x6": "1148000",
       "x9": "802000",
@@ -7050,7 +7050,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds R170N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id-galaxy-buds-r170-sm-r170nzwaxse-frontwhite-thumb-144985613?$152_152_PNG$",
       "price": "1824000",
       "x6": "339000",
       "x9": "237000",
@@ -7060,7 +7060,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds+ R175N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id/galaxy-s20/gallery/id-galaxy-buds-plus-r175-sm-r175nzwaxse-frontwhite-thumb-208972545?$152_152_PNG$",
       "price": "1440000",
       "x6": "268000",
       "x9": "187000",
@@ -7070,7 +7070,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds 2 R177N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/2108/gallery/id-galaxy-buds2-r177-sm-r177nzgaxse-481740805?$730_584_PNG$",
       "price": "1632000",
       "x6": "304000",
       "x9": "212000",
@@ -7080,7 +7080,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds Live R180N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/id-galaxy-buds-r170-sm-r170nzwaxse-frontwhite-thumb-144985613?$152_152_PNG$",
       "price": "1824000",
       "x6": "339000",
       "x9": "237000",
@@ -7090,7 +7090,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds Pro R190N",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/galaxy-s21/gallery/id-galaxy-buds-pro-r190-sm-r190nzsaxse-thumb-363096510?$152_152_PNG$",
       "price": "2400000",
       "x6": "446000",
       "x9": "312000",
@@ -7100,7 +7100,7 @@
     {
       "category": "Earbuds",
       "name": "Samsung Galaxy Buds 2 Pro",
-      "pic": "",
+      "pic": "https://images.samsung.com/is/image/samsung/p6pim/id/galaxy-s21/gallery/id-galaxy-buds-pro-r190-sm-r190nzsaxse-thumb-363096510?$152_152_PNG$",
       "price": "2660000",
       "x6": "495000",
       "x9": "346000",
