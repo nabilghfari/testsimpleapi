@@ -1,6 +1,48 @@
 {
   "catalogue": [
     {
+      "category": "Electronic",
+      "name": "Kulkas",
+      "pic": "https://drive.google.com/file/d/1dBtYvgUuBHuKPQcqUKi12ToFB_T1Bnl5/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=10"
+    },
+    {
+      "category": "Electronic",
+      "name": "AC",
+      "pic": "https://drive.google.com/file/d/18S6N5oQOIjFoHLekRwhw2eX5IymJUn7l/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=12"
+    },
+    {
+      "category": "Electronic",
+      "name": "Kamera",
+      "pic": "https://drive.google.com/file/d/1n7dkWDZd82N-_xgpyMbWKpBw5PJUVAIJ/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=4"
+    },
+    {
+      "category": "Electronic",
+      "name": "Laptop/Notebook",
+      "pic": "https://drive.google.com/file/d/1B25LawKgzUL9OuNp9PpBjrN633n3QuIl/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 3%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=5"
+    },
+    {
+      "category": "Electronic",
+      "name": "Mesin Cuci",
+      "pic": "https://drive.google.com/file/d/1lcJDPqT5fmuD6b198UXMsxjvqo6TjsVc/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=11"
+    },
+    {
+      "category": "Electronic",
+      "name": "TV",
+      "pic": "https://drive.google.com/file/d/1ZSqaS2l8QVHJcZM3nN20ei8XcgHqat9M/view?usp=drive_link",
+      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
+      "url": "https://eci.id/search?category_head_id=1"
+    },
+    {
       "category": "Home Appliance",
       "name": "Mini Slow Cooker",
       "pic": "https://drive.google.com/file/d/1XyI_vD5AqVhPmU-NFNwpuQB19jhZWF8A/view?usp=drive_link",
@@ -6967,48 +7009,6 @@
       "pic": "https://res.cloudinary.com/ruparupa-com/image/upload/w_400,h_400/f_auto,q_auto:eco/v1477065410/10062489_1.jpg",
       "desc": "",
       "z1": "649000"
-    },
-    {
-      "category": "Electronic",
-      "name": "Kulkas",
-      "pic": "https://drive.google.com/file/d/1dBtYvgUuBHuKPQcqUKi12ToFB_T1Bnl5/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=10"
-    },
-    {
-      "category": "Electronic",
-      "name": "AC",
-      "pic": "https://drive.google.com/file/d/18S6N5oQOIjFoHLekRwhw2eX5IymJUn7l/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=12"
-    },
-    {
-      "category": "Electronic",
-      "name": "Kamera",
-      "pic": "https://drive.google.com/file/d/1n7dkWDZd82N-_xgpyMbWKpBw5PJUVAIJ/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=4"
-    },
-    {
-      "category": "Electronic",
-      "name": "Laptop/Notebook",
-      "pic": "https://drive.google.com/file/d/1B25LawKgzUL9OuNp9PpBjrN633n3QuIl/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 3%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=5"
-    },
-    {
-      "category": "Electronic",
-      "name": "Mesin Cuci",
-      "pic": "https://drive.google.com/file/d/1lcJDPqT5fmuD6b198UXMsxjvqo6TjsVc/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=11"
-    },
-    {
-      "category": "Electronic",
-      "name": "TV",
-      "pic": "https://drive.google.com/file/d/1ZSqaS2l8QVHJcZM3nN20ei8XcgHqat9M/view?usp=drive_link",
-      "desc": ">Perhitungan harga produk (harga di website belum termasuk dengan disc. 5%) dan cicilan tenor bisa dihitung menggunakan calculator digital dibawah. ; >Harga barang belum termasuk dengan harga ongkir (sesuai dengan alamat tujuan).",
-      "url": "https://eci.id/search?category_head_id=1"
     },
     {
       "category": "HP",
